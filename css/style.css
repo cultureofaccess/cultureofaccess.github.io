@@ -1,0 +1,90 @@
+body {
+	font-family: 'Lato', sans-serif;
+}
+
+/* Page title (h1) */
+
+h1 {
+	font-size: 111px;
+	text-align: center;
+	margin: 60px auto;
+	width: 90%;
+}
+
+/* Subtitle (h3) */
+
+h3 {
+	font-size: 37px;
+	text-align: center;
+	margin: 60px auto;
+	width: 90%;
+}
+
+/* Main text (p) */
+
+p {
+	font-size: 16px;
+	line-height: 1.5em;
+	margin: 21px auto;
+	width: 90%;
+	max-width: 600px;
+}
+
+p b {
+	font-weight: 700;
+}
+
+/* Signup form */
+
+form {
+	width: 90%;
+	max-width: 800px;
+	margin: 67px auto;
+	font-size: 28px;
+}
+
+form h2 {
+	width: 100%;
+	font-size: 50px;
+	text-align:center;
+	margin-bottom: 25px;
+}
+
+form input {
+	border: 2px solid black;
+	border-radius: 10px;
+	font-size: 21px;
+	font-family: 'Lato';
+	width: 100%;
+	padding: 15px;
+	text-align: center;
+	margin: 20px auto 0;
+}
+
+form button {
+	font-size: 16px;
+	font-family: 'Lato';
+	background: #BFD6FF;
+	border: 2px solid black;
+	border-top-width: 0px;
+	border-radius: 0 0 10px 10px;
+	padding: 10px 10px 15px;
+	margin: 0 auto 10px;
+	width: 200px;
+	display: block;
+}
+
+form p {
+	font-size: 12px;
+	text-align: center;
+}
+
+/* Footer */
+
+footer {
+	font-size: 12px;
+	text-align: center;
+	margin: 80px auto 20px;
+	width: 90%;
+	max-width: 400px;
+}
